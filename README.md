@@ -21,7 +21,7 @@
  </p>
  
   <p align="center">
-	<a href="mailto:monca1078@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/me@ohidur.com-_?label=Send%20Mail&style=social&logo=gmail" alt="monca1078@gmail.com"></a>
+	<a href="mailto:monca1078@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/monca1078@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="monca1078@gmail.com"></a>
 	
 </p>
  
