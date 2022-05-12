@@ -1,4 +1,4 @@
-<div align='center'> 👋👋👋 #### Hi, everybody. 👋👋👋</div>
+<div align='center'> 👋👋👋 Hi, everybody. 👋👋👋</div>
 
 ### I'm Jhon, and I'm from Colombia, but I'm currrently living in Madrid, Spain. 
 
