@@ -25,7 +25,7 @@
 	
 </p>
  
- - 🌱 I’m currently learning Data Science at The Brdigde
+ - 🌱 I’m currently learning Data Science at The Bridge
 
 
 <p>
