@@ -6,6 +6,11 @@
 
 ### I'm Jhon, and I'm from Colombia, but I'm currrently living in Madrid, Spain. 
 
+  <p align="center">
+	<a href="mailto:monca1078@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/monca1078@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="monca1078@gmail.com"></a>
+	
+</p>
+
 <p align="center">
   <samp>
 </a>
@@ -20,10 +25,7 @@
   <br>
  </p>
  
-  <p align="center">
-	<a href="mailto:monca1078@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/monca1078@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="monca1078@gmail.com"></a>
-	
-</p>
+
  
  - 🌱 I’m currently learning Data Science at The Bridge
 
