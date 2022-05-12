@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonaleMF&theme=noctis_minimus&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonaleMF&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonaleMF&theme=swift&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonaleMF&show_icons=true&theme=swift&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
 <!--
