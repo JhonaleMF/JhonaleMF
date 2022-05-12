@@ -8,8 +8,6 @@
 
 <p align="center">
   <samp>
-  <a href="https://discord.gg/6uvgmNa">
-  <img  alt="Ohidur N Friends Discord Server" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jhonamoncaleanof/">
   <img  alt="Ohidur Rahman Bappy's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
