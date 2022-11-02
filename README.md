@@ -27,7 +27,12 @@
  
 
  
- - 🌱 I'm Índustrial Engineer, Data Analyst, Data Scientist and Data Engineer. I’m currently working as Teacher Assistant at The Bridge
+ - 🌱 I am:
+ - Industrial Engineer
+ - Data Analyst
+ - Data Scientist
+ - Data Engineer.
+ - I’m currently working as Teacher Assistant at The Bridge
 
 
 <p>
