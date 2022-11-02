@@ -27,7 +27,7 @@
  
 
  
- - 🌱 I’m currently learning Data Science at The Bridge
+ - 🌱 I'm Índustrial Engineer, Data Analyst, Data Scientist and Data Engineer. I’m currently working as Teacher Assistant at The Bridge
 
 
 <p>
